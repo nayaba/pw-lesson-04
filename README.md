@@ -76,3 +76,5 @@ let isHero = true;
 ```
 
 Try updating them, logging them to the console, and seeing how they interact. Have fun with it! Coding is like a sandbox — the more you play, the better your castles... I mean, your code, will be. Happy coding! 🏰💻
+
+[Back to the Wiki](https://github.com/nayaba/pw-wiki)
