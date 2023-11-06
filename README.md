@@ -1,3 +1,5 @@
+<img src="https://github.com/nayaba/pw-lesson-04/blob/main/Screen%20Shot%202023-11-06%20at%202.36.40%20PM.png" />
+
 Hey there, welcome to the cool club of JavaScript! Today's topic is like getting to know the cast of a play before the show begins. We're talking about variables — the characters in your script that hold all the important stuff.
 
 ### What are Variables?
