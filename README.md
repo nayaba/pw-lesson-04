@@ -1,8 +1,6 @@
 <img src="https://github.com/nayaba/pw-lesson-04/blob/main/Screen%20Shot%202023-11-06%20at%202.36.40%20PM.png" />
 
-Hey there, welcome to the cool club of JavaScript! Today's topic is like getting to know the cast of a play before the show begins. We're talking about variables — the characters in your script that hold all the important stuff.
-
-### What are Variables?
+# What are Variables?
 
 Imagine you’ve got a bunch of boxes in your attic. Each box has a label on it like "Holiday Decorations," "Old Books," or "Stuff I Swear I'll Use Someday." Variables in JavaScript are like those boxes, but instead of old knick-knacks, they store data.
 
